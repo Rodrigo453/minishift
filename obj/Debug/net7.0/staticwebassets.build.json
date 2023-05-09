@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cjBChYCXC5UMTTTf5FRtMkgJ6EImUUqRa4mf7V/RrVs=",
+  "Source": "Minishift",
+  "BasePath": "_content/Minishift",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
